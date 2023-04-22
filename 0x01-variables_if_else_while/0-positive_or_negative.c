@@ -5,9 +5,10 @@
 /**
  *main - Determines if a number is positive, negative or zero.
  *
- *Return value: always 0
+ *Return value: always 0 (Success)
  */
 int main(void)
+
 {
 	int n;
 
