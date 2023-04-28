@@ -6,7 +6,7 @@
  * return: void
  */
 
-void print_most_numbers(void);
+void print_most_numbers(void)
 {
 	char c;
 
@@ -15,5 +15,5 @@ void print_most_numbers(void);
 		if (!(c == '2' || c == '4'))
 			_putchar(c);
 	}
-	_putchaar('\n');
+	_putchar('\n');
 }
